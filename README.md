@@ -1,16 +1,16 @@
 # GH-transportation-inequality
 
-###Summary
+### Summary
 
 This component looks for which subway line should be added to make neighborhoods of Manhattan equal in terms of subway travel time.
 ![model_space_img](metric_wayfinding.jpg)
 
-###Metric
+### Metric
 The main metric is the standard deviation of addition of all the travel time to each city. 
 
 
 
-###Result
+### Result
 ![gif_showing iterations](forGSAPPsocial.gif) 
 
 Green colored line : exsiting subway line. 
