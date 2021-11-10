@@ -13,7 +13,8 @@ The main metric is the standard deviation of addition of all the travel time to 
 ### Result
 ![gif_showing iterations](forGSAPPsocial.gif) 
 
-Green colored line : exsiting subway line. 
+Green colored line : exsiting subway line.
+
 Red colored line : proposed subway line.
 
 Orange-colored region : sum of travel time to that region is longer than others. 
